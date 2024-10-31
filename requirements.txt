@@ -1,0 +1,7 @@
+pandas
+openpyxl
+Pillow
+requests
+beautifulsoup4
+html5lib
+urllib3
