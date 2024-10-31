@@ -33,7 +33,7 @@ Validates the following:
   - Exactly 825x825 pixels
   - OR maintain a 1:1 aspect ratio
   - Checks actual image dimensions by downloading and analyzing the image
-6. Variant Order Validations
+6. Variant Order Validations ( i dont think it does this rn, needs tweaking )
   - Validates variant positions:
   - Must be sequential (1, 2, 3, etc.)
   - No gaps in sequence
